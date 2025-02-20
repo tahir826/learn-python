@@ -1,18 +1,18 @@
-# name1 = "tahir hassan"
-# name2 = 'tahir'
-# age = 19
-# name3 = '''bank details
-# username 
-# acc'''
-# name4 = f''
-# string1 = "tahir"
-# string2 = "hassan"
-# string3 = string1 + string2
-# print(string3)
-# num4 = 50
-# def example(num1 , num2):
-#     num3 = num1+ num2 + num4
-#     return "tahir"
+name1 = "tahir hassan"
+name2 = 'tahir'
+age = 19
+name3 = '''bank details
+username 
+acc'''
+name4 = f''
+string1 = "tahir"
+string2 = "hassan"
+string3 = string1 + string2
+print(string3)
+num4 = 50
+def example(num1 , num2):
+    num3 = num1+ num2 + num4
+    return "tahir"
 
 
 # print(example(20,30))
